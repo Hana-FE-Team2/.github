@@ -13,15 +13,30 @@
 
 
 ### Screen 💻
-| 시작 화면 | 셔플 1 | 셔플 2 | 
-| :---: | :---: | :---: | 
-| <img width="300" alt="시작 화면" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/6952dd0c-a513-4bbf-92d6-c52ddec875ce"> | <img width="300" alt="셔플1" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/55631d1a-7bbd-4326-b04b-0c2f68c0dc3e"> | <img width="300" alt="셔플2" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/3d1f8a9f-3076-4a71-8313-1a4fdf54455c"> |
-| 초기 등장 화면 | 매쉬 셔플 | 카지노 셔플 | 
+| 시작 화면 |
+| :---: |
+| <img width="350" alt="시작 화면" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/6952dd0c-a513-4bbf-92d6-c52ddec875ce"> |
+| 초기 등장 화면 |
 
-| OO 화면 | OO 화면 | OO 화면 | 
-| :---: | :---: | :---: | 
-| <img width="350" alt="화면3" src=""> | <img width="350" alt="화면4" src=""> | <img width="350" alt="화면4" src=""> |
-| OO 기능 | OO 기능 | OO 기능 | 
+| 셔플 1 | 셔플 2 | 
+| :---: | :---: | 
+| <img width="350" alt="셔플1" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/55631d1a-7bbd-4326-b04b-0c2f68c0dc3e"> | <img width="350" alt="셔플2" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/3d1f8a9f-3076-4a71-8313-1a4fdf54455c"> |
+| 매쉬 셔플 | 카지노 셔플 |
+
+| 카드 스크롤 | 카드 선택 |
+| :---: | :---: |
+| <img width="350" alt="화면3" src=""> | <img width="350" alt="화면4" src=""> |
+| 카드 스크롤 | 카드 선택 |
+
+| 설명 화면 | 설명 모달 |
+| :---: | :---: |
+| <img width="350" alt="화면3" src=""> | <img width="350" alt="화면4" src=""> | 
+| OO 기능 | OO 기능 |
+
+| 최종 화면 |
+| :---: | 
+| <img width="350" alt="화면3" src=""> |
+| OO 기능 |
 <br/>
 
 ### Tech Stack :eyes:
