@@ -15,7 +15,7 @@
 ### Screen 💻
 | 시작 화면 | 셔플 1 | 셔플 2 | 
 | :---: | :---: | :---: | 
-| <img width="350" alt="시작 화면" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/6952dd0c-a513-4bbf-92d6-c52ddec875ce"> | <img width="350" alt="셔플1" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/55631d1a-7bbd-4326-b04b-0c2f68c0dc3e"> | | <img width="350" alt="셔플2" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/1d70e2c3-b162-42fa-913b-75972a2b77f1"> |
+| <img width="250" alt="시작 화면" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/6952dd0c-a513-4bbf-92d6-c52ddec875ce"> | <img width="250" alt="셔플1" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/55631d1a-7bbd-4326-b04b-0c2f68c0dc3e"> | | <img width="250" alt="셔플2" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/3d1f8a9f-3076-4a71-8313-1a4fdf54455c"> |
 | 초기 등장 화면 | 매쉬 셔플 | 카지노 셔플 | 
 
 | OO 화면 | OO 화면 | OO 화면 | 
