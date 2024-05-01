@@ -46,6 +46,6 @@
 ### Tools :eyes:
 <img width="800" alt="관리 도구" src="https://github.com/Hana-FE-Team2/.github/assets/85922192/c23eb080-21bd-4f6e-8502-4ddab70ecd26">
 
-
-
+### 프로젝트 기간 📆 
+#### 4.22 ~ 5.2
 
